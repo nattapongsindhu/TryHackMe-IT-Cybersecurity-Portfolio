@@ -179,6 +179,7 @@ application and want the long version, ask and I will send it.
 | :--- | :--- |
 | TryHackMe profile | [gnopattan](https://tryhackme.com/p/gnopattan) |
 | GitHub | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
+| TryHackMe certificate | [`pre-security-certificate.jpg`](certificates/pre-security-certificate.jpg) · [`soc-level-1-certificate.jpg`](certificates/soc-level-1-certificate.jpg) — issued 7 and 9 November 2026 |
 
 <img src="certificates/pre-security-certificate.jpg" width="560" alt="TryHackMe Pre-Security Certificate of Completion">
 
