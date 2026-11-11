@@ -102,3 +102,7 @@ repeated more than twice, automate the boring part and spend the time on the ana
 A local SOC lab was built during the SIEM module: a Splunk instance ingesting host and network logs
 from lab machines, with searches and a dashboard built on top. The lab is where the log-analysis
 notes in [Study Notes](../05-study-notes/README.md) were tested before being written down.
+
+## Python tools
+
+- [zeek_conn_summary.py](python-tools/zeek_conn_summary.py) - summarises a Zeek `conn.log`: talkers, byte counts, odd ports, long connections, large transfers. Usage and sample output in [python-tools/README.md](python-tools/README.md).
