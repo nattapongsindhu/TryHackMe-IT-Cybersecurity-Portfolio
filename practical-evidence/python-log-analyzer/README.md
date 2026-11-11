@@ -37,6 +37,9 @@ python3 analyze.py sample_access.log --top 5
 
 ## Sample output
 
+The full run is committed as [`output/sample_run.txt`](output/sample_run.txt) so the output can be
+diffed when the patterns change:
+
 ```text
 File      : sample_access.log
 Requests  : 26
@@ -107,7 +110,8 @@ sample deliberately carries the payload in the user agent so the regression stay
   payloads and it will occasionally false-positive on legitimate query strings.
 - Combined-log format only.
 - No time-window analysis, no correlation across files.
-- No unit tests yet — the sample log doubles as a manual regression check.
+- No unit tests inside this folder — the tests live in [`tests/test_tools.py`](../../tests/test_tools.py)
+  and run in CI on every push.
 
 ## Next version
 

@@ -129,7 +129,9 @@ I built two small tools as practical evidence, both standard library only:
   six views I actually use first: volume, top talkers, top destinations, long connections, large
   transfers, uncommon ports.
 
-Both READMEs explain the design decisions, including the bug that taught me the most.
+Both READMEs explain the design decisions, including the bugs that taught me the most. Both tools have
+regression tests in [`tests/`](tests/) that run in CI (`.github/workflows/tests.yml`) on Python 3.10,
+3.11 and 3.12, and the full sample output of each tool is committed next to it for diffing.
 
 ---
 
@@ -254,6 +256,8 @@ TryHackMe-IT-Cybersecurity-Portfolio/
 ├── study-notes/                 concept summaries in my own words (6 notes)
 ├── practical-evidence/          six case summaries + two Python tools
 ├── certificates/                certificate images and credential links
+├── tests/                       regression tests for both tools
+├── .github/workflows/tests.yml  CI: runs the tests on every push
 └── SECURITY-CHECK.md            the pre-publish safety checklist
 ```
 
