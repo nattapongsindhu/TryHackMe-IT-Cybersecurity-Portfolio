@@ -175,13 +175,20 @@ application and want the long version, ask and I will send it.
 
 ## 7. Certificates and Links
 
+Both paths were completed and certified in November 2026.
+
+| Pre-Security Learning Path | SOC Level 1 Learning Path |
+| :---: | :---: |
+| [![TryHackMe Pre-Security Certificate of Completion](certificates/pre-security-certificate.jpg)](certificates/pre-security-certificate.jpg) | [![TryHackMe SOC Level 1 Certificate of Completion](certificates/soc-level-1-certificate.jpg)](certificates/soc-level-1-certificate.jpg) |
+| Issued **7 November 2026** · 19 hrs 10 mins · 7 modules / 31 labs | Issued **9 November 2026** · 65 hrs 29 mins · 14 modules / 68 labs |
+
+Full-size images and the verification route are in [`certificates/`](certificates/README.md).
+
 | Item | Link |
 | :--- | :--- |
 | TryHackMe profile | [gnopattan](https://tryhackme.com/p/gnopattan) |
 | GitHub | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
 | LetsDefend portfolio | [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) |
-
-Certificate images and the credential details are in [`certificates/`](certificates/README.md).
 
 ---
 

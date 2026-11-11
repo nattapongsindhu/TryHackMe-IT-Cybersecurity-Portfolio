@@ -2,10 +2,10 @@
 
 Two certificates, both issued by TryHackMe on completion of the corresponding learning path.
 
-| Certificate | Path | Modules / labs | Course time | File |
-| :--- | :--- | :--- | ---: | :--- |
-| Pre-Security | Pre-Security Learning Path | 7 / 31 | 19 hrs 10 mins | [`pre-security-certificate.jpg`](pre-security-certificate.jpg) |
-| SOC Level 1 | SOC Level 1 Learning Path | 14 / 68 | 65 hrs 29 mins | [`soc-level-1-certificate.jpg`](soc-level-1-certificate.jpg) |
+| Certificate | Path | Issued | Modules / labs | Course time | File |
+| :--- | :--- | :--- | :---: | ---: | :--- |
+| Pre-Security | Pre-Security Learning Path | 7 November 2026 | 7 / 31 | 19 hrs 10 mins | [`pre-security-certificate.jpg`](pre-security-certificate.jpg) |
+| SOC Level 1 | SOC Level 1 Learning Path | 9 November 2026 | 14 / 68 | 65 hrs 29 mins | [`soc-level-1-certificate.jpg`](soc-level-1-certificate.jpg) |
 
 ## Pre-Security — Certificate of Completion
 
