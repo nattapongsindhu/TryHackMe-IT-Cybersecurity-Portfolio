@@ -15,7 +15,7 @@ would do next.
 |  |  |
 | :--- | :--- |
 | **Status** | Both paths complete — 21 modules · 99 hands-on labs · 6 investigations written · 2 certificates · 2 tools built |
-| **Platform** | TryHackMe — profile [gnopattan](https://tryhackme.com/p/gnopattan) |
+| **Platform** | [TryHackMe](https://tryhackme.com/) — profile [gnopattan](https://tryhackme.com/p/gnopattan) |
 | **Period** | November – December 2026 |
 
 **Sister portfolio:** [LetsDefend study portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio)
