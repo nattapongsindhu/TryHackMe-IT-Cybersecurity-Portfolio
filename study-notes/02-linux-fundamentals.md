@@ -59,4 +59,4 @@ This is the Linux version of the same rule that applies on Windows with memory c
 - Kernel-level tracing (`bpftrace`, `auditd` rule design).
 - Package and supply-chain integrity checks.
 
-These are on the [next steps](../09-next-steps.md) list rather than pretended.
+These are on the [next steps](../README.md#9-next-steps) list rather than pretended.

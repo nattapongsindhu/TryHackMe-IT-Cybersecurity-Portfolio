@@ -61,4 +61,4 @@ interview, because it is the part that is honest.
 ## Still thin
 
 Sigma rule authoring at scale, and detection-as-code pipelines. Both are on the
-[next steps](../09-next-steps.md) list.
+[next steps](../README.md#9-next-steps) list.
