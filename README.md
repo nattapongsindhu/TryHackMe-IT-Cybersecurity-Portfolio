@@ -4,7 +4,7 @@
 ![Team](https://img.shields.io/badge/Team-Blue%20Team-1f6feb?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red?style=for-the-badge)
 ![Paths](https://img.shields.io/badge/Paths-2%20%2F%202%20Complete-brightgreen?style=for-the-badge)
-![Evidence](https://img.shields.io/badge/Evidence-6%20Cases%20%2B%20Tool-orange?style=for-the-badge)
+![Evidence](https://img.shields.io/badge/Evidence-6%20Cases%20%2B%202%20Tools-orange?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
@@ -12,8 +12,12 @@ A study portfolio built from the TryHackMe Pre-Security and SOC Level 1 paths. T
 documents how I learned blue-team work: what I studied, what I practised, what I built, and what I
 would do next.
 
-**Status:** Both paths complete (21 modules, 99 hands-on labs) · 6 investigations written · 2 certificates · 1 tool built
-**Platform:** [TryHackMe](https://tryhackme.com) — profile [tryhackme.com/p/gnopattan](https://tryhackme.com/p/gnopattan) · **Period:** November 2026
+|  |  |
+| :--- | :--- |
+| **Status** | Both paths complete — 21 modules · 99 hands-on labs · 6 investigations written · 2 certificates · 2 tools built |
+| **Platform** | [TryHackMe](https://tryhackme.com) — profile [gnopattan](https://tryhackme.com/p/gnopattan) |
+| **Period** | November 2026 |
+
 **Sister portfolio:** [LetsDefend study portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio)
 
 ---
@@ -170,7 +174,8 @@ application and want the long version, ask and I will send it.
 
 | Item | Link |
 | :--- | :--- |
-| TryHackMe profile | [tryhackme.com/p/gnopattan](https://tryhackme.com/p/gnopattan) |
+| TryHackMe | [tryhackme.com](https://tryhackme.com) |
+| TryHackMe profile | [gnopattan](https://tryhackme.com/p/gnopattan) |
 | GitHub | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
 | LetsDefend portfolio | [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) |
 
