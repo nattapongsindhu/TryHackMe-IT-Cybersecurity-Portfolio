@@ -13,7 +13,7 @@ documents how I learned blue-team work: what I studied, what I practised, what I
 would do next.
 
 **Status:** Both paths complete (21 modules, 99 hands-on labs) · 6 investigations written · 2 certificates · 1 tool built
-**Platform:** [TryHackMe](https://tryhackme.com) · **Period:** November 2026
+**Platform:** [TryHackMe](https://tryhackme.com) — profile [tryhackme.com/p/gnopattan](https://tryhackme.com/p/gnopattan) · **Period:** November 2026
 **Sister portfolio:** [LetsDefend study portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio)
 
 ---
@@ -170,7 +170,7 @@ application and want the long version, ask and I will send it.
 
 | Item | Link |
 | :--- | :--- |
-| TryHackMe profile | [tryhackme.com/p/nattapongsindhu](https://tryhackme.com/p/nattapongsindhu) |
+| TryHackMe profile | [tryhackme.com/p/gnopattan](https://tryhackme.com/p/gnopattan) |
 | GitHub | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
 | LetsDefend portfolio | [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) |
 

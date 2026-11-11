@@ -19,7 +19,7 @@ Two certificates, both issued by TryHackMe on completion of the corresponding le
 
 The images above are copies. The authoritative record is the platform profile:
 
-- TryHackMe profile: **[tryhackme.com/p/nattapongsindhu](https://tryhackme.com/p/nattapongsindhu)**
+- TryHackMe profile: **[tryhackme.com/p/gnopattan](https://tryhackme.com/p/gnopattan)**
 
 ## What the certificates do and do not say
 
