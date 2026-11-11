@@ -177,7 +177,7 @@ application and want the long version, ask and I will send it.
 
 | Item | Link |
 | :--- | :--- |
-| TryHackMe profile | [gnopattan](https://tryhackme.com/p/gnopattan) |
+| [TryHackMe](https://tryhackme.com/) profile | [gnopattan](https://tryhackme.com/p/gnopattan) |
 | GitHub | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
 | TryHackMe certificate | [`pre-security-certificate.jpg`](certificates/pre-security-certificate.jpg) · [`soc-level-1-certificate.jpg`](certificates/soc-level-1-certificate.jpg) — issued 7 and 9 November 2026 |
 
