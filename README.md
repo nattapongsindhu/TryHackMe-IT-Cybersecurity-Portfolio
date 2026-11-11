@@ -179,7 +179,6 @@ application and want the long version, ask and I will send it.
 | :--- | :--- |
 | TryHackMe profile | [gnopattan](https://tryhackme.com/p/gnopattan) |
 | GitHub | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
-| LetsDefend portfolio | [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) |
 
 <img src="certificates/pre-security-certificate.jpg" width="560" alt="TryHackMe Pre-Security Certificate of Completion">
 
