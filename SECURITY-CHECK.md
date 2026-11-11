@@ -15,7 +15,7 @@ documented so a reader can see the standard, and so future updates keep the same
 | 6 | Personal data | Only the portfolio owner's name (already printed on the certificates). No address, phone, student ID or employer detail | Pass |
 | 7 | Private lab data | No internal hostnames, IP ranges or configuration from any employer or private environment | Pass |
 | 8 | Screenshots | No screenshots from active labs; only the two issued certificates | Pass |
-| 9 | Sample data | `sample_access.log` is synthetic; its IPs are documentation ranges | Pass |
+| 9 | Sample data | `sample_access.log` and `sample_conn.log` are synthetic; every address is a documentation range or a private lab range | Pass |
 
 ## How the check is run
 
@@ -38,7 +38,8 @@ the public internet:
 | `192.0.2.0/24` | TEST-NET-1 |
 | `198.51.100.0/24` | TEST-NET-2 |
 | `203.0.113.0/24` | TEST-NET-3 |
-| `10.10.14.0/24` | Private lab range used in the synthetic log |
+| `10.10.14.0/24` | Private lab range, web access log sample |
+| `10.10.5.0/24` | Private lab range, Zeek conn.log sample |
 
 ## What is deliberately not here
 

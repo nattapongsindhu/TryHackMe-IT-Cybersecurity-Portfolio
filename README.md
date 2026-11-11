@@ -66,7 +66,8 @@ Pre-Security supplied the vocabulary: how a network is described, what an operat
 how the web actually works. SOC Level 1 supplied the job: alert triage, traffic analysis, endpoint and
 log monitoring, threat intelligence, and a capstone investigation.
 
-Module-by-module detail and the concept notes are in [Study Notes](study-notes/README.md).
+Module-by-module detail and the concept notes are in [Study Notes](study-notes/README.md). The full
+room list — 105 rooms across the 21 modules — is in [Room Map](ROOM-MAP.md).
 Certificates are in [`certificates/`](certificates/).
 
 ### Related study (sister repository)
@@ -249,8 +250,9 @@ The full checklist and the commands used to scan for secrets are in
 ```text
 TryHackMe-IT-Cybersecurity-Portfolio/
 ├── README.md                    this page
+├── ROOM-MAP.md                  every room on the two paths (105), and where its evidence lives
 ├── study-notes/                 concept summaries in my own words (6 notes)
-├── practical-evidence/          six case summaries + the Python log analyzer
+├── practical-evidence/          six case summaries + two Python tools
 ├── certificates/                certificate images and credential links
 └── SECURITY-CHECK.md            the pre-publish safety checklist
 ```

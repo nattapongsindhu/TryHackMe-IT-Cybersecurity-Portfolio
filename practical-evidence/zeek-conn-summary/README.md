@@ -1,12 +1,16 @@
-# Python Tools
+# Zeek conn.log Summariser
 
-Small command-line tools I wrote while working through network and log analysis. Standard library only —
-no dependencies, one file each — because the first minutes of an investigation should not need an
+A small command-line tool built while working through network traffic analysis. Standard library only —
+no dependencies, one file — because the first minutes of an investigation should not need a
 `pip install`.
 
 | Tool | What it does |
 | :--- | :--- |
 | [`zeek_conn_summary.py`](zeek_conn_summary.py) | Summarises a Zeek `conn.log`: talkers, byte counts, odd ports, long connections, large transfers |
+
+**All sample data in this folder is synthetic.** `sample_conn.log` was written by hand to exercise the
+tool; its addresses come from the IETF documentation ranges (`192.0.2.0/24`, `198.51.100.0/24`,
+`203.0.113.0/24`) and a private lab range (`10.10.5.0/24`). No capture from a real network is included.
 
 ## zeek_conn_summary.py
 

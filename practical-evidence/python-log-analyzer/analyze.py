@@ -106,11 +106,19 @@ def main():
     examples = {}
     for e in entries:
         path = e["path"]
-        decoded = unquote(path)
+        # Payloads arrive in the request target, the referer or the user agent.
+        # Log4Shell in particular is almost always delivered in a header, not a path,
+        # so all three fields are scanned (and URL-decoded first).
+        fields = [
+            unquote(path),
+            unquote(e.get("referer") or ""),
+            unquote(e.get("ua") or ""),
+        ]
         for name, rx in PAYLOAD_PATTERNS.items():
-            if rx.search(decoded) or rx.search(path):
+            if any(rx.search(f) for f in fields) or rx.search(path):
                 hits[(e["ip"], name)] += 1
-                examples.setdefault((e["ip"], name), path[:90])
+                shown = next((f for f in fields if rx.search(f)), path)
+                examples.setdefault((e["ip"], name), shown[:90])
     if hits:
         print("Injection-style payloads")
         for (ip, name), count in hits.most_common(args.top):
