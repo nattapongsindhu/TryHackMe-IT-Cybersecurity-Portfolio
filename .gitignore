@@ -18,3 +18,6 @@ venv/
 *.log
 .bskhome/
 node_modules/
+
+# Sample data shipped with the tools is synthetic and must stay in the repo
+!practical-evidence/**/*.log
