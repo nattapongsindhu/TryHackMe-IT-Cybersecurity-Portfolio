@@ -16,7 +16,7 @@ would do next.
 | :--- | :--- |
 | **Status** | Both paths complete — 21 modules · 99 hands-on labs · 6 investigations written · 2 certificates · 2 tools built |
 | **Platform** | [TryHackMe](https://tryhackme.com) — profile [gnopattan](https://tryhackme.com/p/gnopattan) |
-| **Period** | November 2026 |
+| **Period** | November – December 2026 |
 
 **Sister portfolio:** [LetsDefend study portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio)
 
@@ -59,7 +59,7 @@ who wants to see how a self-directed learner documents work.
 | Hands-on labs | **99** (31 + 68) |
 | Course time on platform | 19 hrs 10 mins · 65 hrs 29 mins |
 | Certificates | **2** (both paths) |
-| Period | November 2026 |
+| Period | November – December 2026 |
 | Status | **Complete** |
 
 Pre-Security supplied the vocabulary: how a network is described, what an operating system is doing,
