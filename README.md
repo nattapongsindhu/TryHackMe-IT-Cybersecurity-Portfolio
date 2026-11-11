@@ -72,3 +72,9 @@ automate the documentation work.
 
 - TryHackMe profile: **[nattapongsindhu](https://tryhackme.com/p/nattapongsindhu)**
 - GitHub profile: **[nattapongsindhu](https://github.com/nattapongsindhu)**
+
+## License
+
+Released under the [MIT License](LICENSE). The investigation summaries are my own work; the
+certificates remain the property of TryHackMe.
+
