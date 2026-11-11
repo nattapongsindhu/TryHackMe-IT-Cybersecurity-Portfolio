@@ -6,7 +6,7 @@ Both certificates were issued by TryHackMe on completion of the corresponding le
 
 ### TryHackMe Pre-Security — Certificate of Completion
 
-![TryHackMe Pre-Security Certificate of Completion](assets/certificates/pre-security-certificate.jpg)
+![TryHackMe Pre-Security Certificate of Completion](images/pre-security-certificate.jpg)
 
 | Field | Value |
 | :--- | :--- |
@@ -17,7 +17,7 @@ Both certificates were issued by TryHackMe on completion of the corresponding le
 
 ### TryHackMe SOC Level 1 — Certificate of Completion
 
-![TryHackMe SOC Level 1 Certificate of Completion](assets/certificates/soc-level-1-certificate.jpg)
+![TryHackMe SOC Level 1 Certificate of Completion](images/soc-level-1-certificate.jpg)
 
 | Field | Value |
 | :--- | :--- |
@@ -36,10 +36,10 @@ Both certificates were issued by TryHackMe on completion of the corresponding le
 | :--- | :--- |
 | TryHackMe profile | [tryhackme.com/p/nattapongsindhu](https://tryhackme.com/p/nattapongsindhu) |
 | GitHub profile | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
-| This portfolio's entry point | [README](README.md) |
+| This portfolio's entry point | [README](../README.md) |
 
 ## What the certificates do and do not say
 
 They say the paths were completed. They do not say how well someone investigates an alert at 02:00
-with incomplete information. That is what [Practical Evidence](06-practical-evidence/README.md)
-and [Study Notes](05-study-notes/README.md) are for.
+with incomplete information. That is what [Practical Evidence](../06-practical-evidence/README.md)
+and [Study Notes](../05-study-notes/README.md) are for.

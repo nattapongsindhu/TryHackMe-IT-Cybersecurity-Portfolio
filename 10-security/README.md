@@ -38,5 +38,5 @@ Any hit is reviewed by hand before publication. A hit is not automatically a fai
 ## Reporting a problem
 
 If you believe something here exposes a secret, a flag, or personal data, please open an issue or
-contact me through the profile links on the [Certificates & Links](07-certificates.md) page. I will
+contact me through the profile links on the [Certificates & Links](../07-certificates/README.md) page. I will
 remove it first and investigate afterwards.

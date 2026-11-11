@@ -10,7 +10,7 @@ certificate per path; the figures below are the platform figures.
 | **Total** | **21** | **99** | **Completed** | — |
 
 The 8-week plan that carried both paths was closed on **2026-11-09**. Certificates are on the
-[Certificates & Links](07-certificates.md) page.
+[Certificates & Links](../07-certificates/README.md) page.
 
 ## Pre-Security — 7 modules
 

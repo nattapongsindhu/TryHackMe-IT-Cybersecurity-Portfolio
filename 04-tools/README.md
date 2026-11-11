@@ -30,7 +30,7 @@ Tools I have actually used in labs and investigations — not a list of things I
 | :--- | :--- | :--- |
 | **Linux CLI** | File system, permissions, process and log inspection, package management | Throughout |
 | **Bash** | Chaining commands during triage and enumeration | Throughout |
-| **Python 3** | Three small utilities: report scaffolding, study-plan generation, syllabus document generation | [Automation](06-practical-evidence/README.md#automation--python-tooling) |
+| **Python 3** | Three small utilities: report scaffolding, study-plan generation, syllabus document generation | [Automation](../06-practical-evidence/README.md#automation--python-tooling) |
 | **Git / GitHub** | Version control, Markdown documentation, this repository | Portfolio |
 
 ## Frameworks and references
@@ -42,5 +42,5 @@ Tools I have actually used in labs and investigations — not a list of things I
 | **Pyramid of Pain** | Deciding which indicators are worth writing a detection for |
 | **NIST SP 800-61 (concepts)** | Incident lifecycle: preparation, detection and analysis, containment/eradication/recovery, post-incident |
 
-> Tools change; the reasoning does not. The notes in [Study Notes](05-study-notes/README.md) are
+> Tools change; the reasoning does not. The notes in [Study Notes](../05-study-notes/README.md) are
 > written around the reasoning, with the tools named only as the instrument used that day.
