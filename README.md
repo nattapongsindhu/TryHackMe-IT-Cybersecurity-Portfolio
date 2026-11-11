@@ -177,11 +177,9 @@ application and want the long version, ask and I will send it.
 
 | Item | Link |
 | :--- | :--- |
-| TryHackMe profile | [gnopattan](https://tryhackme.com/p/gnopattan) — the account both paths were completed on |
+| TryHackMe profile | [gnopattan](https://tryhackme.com/p/gnopattan) |
 | GitHub | [github.com/nattapongsindhu](https://github.com/nattapongsindhu) |
 | LetsDefend portfolio | [LetsDefend-IT-Cybersecurity-Portfolio](https://github.com/nattapongsindhu/LetsDefend-IT-Cybersecurity-Portfolio) |
-| Pre-Security certificate | [`pre-security-certificate.jpg`](certificates/pre-security-certificate.jpg) — Pre-Security Learning Path, issued 7 Nov 2026 |
-| SOC Level 1 certificate | [`soc-level-1-certificate.jpg`](certificates/soc-level-1-certificate.jpg) — SOC Level 1 Learning Path, issued 9 Nov 2026 |
 
 <img src="certificates/pre-security-certificate.jpg" width="560" alt="TryHackMe Pre-Security Certificate of Completion">
 
